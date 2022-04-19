@@ -1,10 +1,10 @@
 # Progresso do Bootcamp Spread Fullstack Developer
 
-
-
 ## Módulo 1 - Conteúdo de abertura (5 atividades) :checkered_flag:
-
-- Atividade 01: Curso. :white_check_mark:
+<details>
+  <summary>Click para expandir!</summary>
+  
+  - Atividade 01: Curso. :white_check_mark:
 
 ​		Boas-vindas ao Bootcamp: Spread Fullstack Developer
 
@@ -35,4 +35,6 @@
 ​			:level_slider: Nível: Básico | :hourglass:Duração: 1hr | :memo: Progresso: 100%
 
 ​		
+</details>
+
 
