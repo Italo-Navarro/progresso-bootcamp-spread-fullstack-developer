@@ -34,6 +34,10 @@
 
 ​			:level_slider: Nível: Básico | :hourglass:Duração: 1hr | :memo: Progresso: 100%
 
+​				[Link paro o projeto!](https://github.com/Italo-Navarro/progresso-bootcamp-spread-fullstack-developer.git)
+
+
+
 </details>
 
 ## Módulo 2 - HTML/CSS3 (4 atividades) :checkered_flag:
